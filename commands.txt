@@ -1,0 +1,2 @@
+chmod +x run-elastic.sh
+./run-elastic.sh
